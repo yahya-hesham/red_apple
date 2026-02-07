@@ -10,7 +10,7 @@ A new Flutter project.
 ## 📱 Preview
 
 <p align="center">
-  <img src="lib/screnShots/image.png" alt="Burger Mix Combo Preview" width="300">
+  <img src="lib/screens/image.png" alt="Burger Mix Combo Preview" width="300">
 </p>
 
 > **Note:** Replace the placeholder link above with the path to your actual screenshot (e.g., `lib/screnShots/Screenshot 2026-02-07 052757.png`) once you upload it to your repo.
