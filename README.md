@@ -12,9 +12,6 @@ A new Flutter project.
 <p align="center">
   <img src="lib/screens/image.png" alt="Burger Mix Combo Preview" width="300">
 </p>
-
-> **Note:** Replace the placeholder link above with the path to your actual screenshot (e.g., `lib/screnShots/Screenshot 2026-02-07 052757.png`) once you upload it to your repo.
-
 ---
 
 ## 🚀 Project Overview
@@ -59,5 +56,5 @@ This single-screen application focuses on a high-conversion UI/UX design, showca
 * `ThemeData`: Custom color palettes for food-based branding (Oranges, Reds, and Creams).
 
 ---
-*Created with ❤️ by [Your Name]*
+Yahya Hesham
 
